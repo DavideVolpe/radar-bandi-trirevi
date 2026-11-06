@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "generato": "2026-11-06T16:45:24+00:00",
+    "finestra": [
+      "27/10/2026",
+      "06/11/2026"
+    ],
+    "avvisi_scaricati": 171,
+    "opportunita": 2,
+    "nuove": 2
+  },
+  "record": [
+    {
+      "id": "5fea0b7d-82b3-4737-8424-69293a1de060",
+      "cig": "BD918221D2",
+      "titolo": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023 Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo",
+      "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023 Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo",
+      "ente": "COMUNE DI MONREALE",
+      "cf_ente": "00231740820",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi di progettazione grafica",
+        "Seminari di formazione",
+        "Servizi di formazione",
+        "Servizi promozionali"
+      ],
+      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+      "momento": "manifestazione",
+      "importo": 110704.92,
+      "luogo": "Palermo",
+      "pubblicazione": "2026-10-30",
+      "scadenza": "2026-11-12",
+      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/5fea0b7d-82b3-4737-8424-69293a1de060",
+      "documenti": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+      "territorio": "SICILIA",
+      "profilo": "B",
+      "punteggio": 45,
+      "parole_chiave": [
+        "formazione",
+        "progetto"
+      ],
+      "attenzione": [],
+      "nuovo": true,
+      "prima_vista": "2026-11-06"
+    },
+    {
+      "id": "3c3c11f7-4c40-42e4-ad3a-2d404e32e5b1",
+      "cig": "BD8C80BA33",
+      "titolo": "SERVIZI CONNESSI ALL'ASSISTENZA, ELABORAZIONE E TRASMISSIONE DELLE DICHIARAZIONI FISCALI",
+      "descrizione": "SERVIZI CONNESSI ALL'ASSISTENZA, ELABORAZIONE E TRASMISSIONE DELLE DICHIARAZIONI FISCALI",
+      "ente": "COMUNE DI BAREGGIO",
+      "cf_ente": "82000710150",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi di consulenza fiscale"
+      ],
+      "tipologia_anac": "BANDI",
+      "momento": "gara",
+      "importo": 19918.03,
+      "luogo": "BAREGGIO",
+      "pubblicazione": "2026-10-29",
+      "scadenza": "2026-11-27",
+      "url": "https://pubblicitalegale.anticorruzione.it/bandi/3c3c11f7-4c40-42e4-ad3a-2d404e32e5b1",
+      "documenti": "https://www.comune.bareggio.mi.it/",
+      "territorio": "ALTRO",
+      "profilo": "A",
+      "punteggio": 55,
+      "parole_chiave": [
+        "consulenza fiscale",
+        "dichiarazion",
+        "fiscale"
+      ],
+      "attenzione": [],
+      "nuovo": true,
+      "prima_vista": "2026-11-06"
+    }
+  ]
+}
