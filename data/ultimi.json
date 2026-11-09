@@ -1,12 +1,12 @@
 {
   "meta": {
-    "generato": "2026-11-08T11:55:05+00:00",
+    "generato": "2026-11-09T13:51:58+00:00",
     "finestra": [
-      "29/10/2026",
-      "08/11/2026"
+      "30/10/2026",
+      "09/11/2026"
     ],
-    "avvisi_scaricati": 153,
-    "opportunita": 2,
+    "avvisi_scaricati": 148,
+    "opportunita": 1,
     "nuove": 0
   },
   "record": [
@@ -38,37 +38,6 @@
       "parole_chiave": [
         "formazione",
         "progetto"
-      ],
-      "attenzione": [],
-      "nuovo": false,
-      "prima_vista": "2026-11-06"
-    },
-    {
-      "id": "3c3c11f7-4c40-42e4-ad3a-2d404e32e5b1",
-      "cig": "BD8C80BA33",
-      "titolo": "SERVIZI CONNESSI ALL'ASSISTENZA, ELABORAZIONE E TRASMISSIONE DELLE DICHIARAZIONI FISCALI",
-      "descrizione": "SERVIZI CONNESSI ALL'ASSISTENZA, ELABORAZIONE E TRASMISSIONE DELLE DICHIARAZIONI FISCALI",
-      "ente": "COMUNE DI BAREGGIO",
-      "cf_ente": "82000710150",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi di consulenza fiscale"
-      ],
-      "tipologia_anac": "BANDI",
-      "momento": "gara",
-      "importo": 19918.03,
-      "luogo": "BAREGGIO",
-      "pubblicazione": "2026-10-29",
-      "scadenza": "2026-11-27",
-      "url": "https://pubblicitalegale.anticorruzione.it/bandi/3c3c11f7-4c40-42e4-ad3a-2d404e32e5b1",
-      "documenti": "https://www.comune.bareggio.mi.it/",
-      "territorio": "ALTRO",
-      "profilo": "A",
-      "punteggio": 55,
-      "parole_chiave": [
-        "consulenza fiscale",
-        "dichiarazion",
-        "fiscale"
       ],
       "attenzione": [],
       "nuovo": false,
