@@ -1,47 +1,45 @@
 {
   "meta": {
-    "generato": "2026-11-09T13:51:58+00:00",
+    "generato": "2026-11-10T13:27:35+00:00",
     "finestra": [
-      "30/10/2026",
-      "09/11/2026"
+      "31/10/2026",
+      "10/11/2026"
     ],
-    "avvisi_scaricati": 148,
+    "avvisi_scaricati": 158,
     "opportunita": 1,
-    "nuove": 0
+    "nuove": 1
   },
   "record": [
     {
-      "id": "5fea0b7d-82b3-4737-8424-69293a1de060",
-      "cig": "BD918221D2",
-      "titolo": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023 Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo",
-      "descrizione": "PROCEDURA NEGOZIATA AI SENSI DELLART. 50, COMMA 1, LETT. e), D.LGS. 36/2023 Affidamento dei servizi e delle forniture relativi alle Linee A.2, A.3, A.4, B.2, C e D del Progetto Il Cammino dei Mille da Renda a Palermo",
-      "ente": "COMUNE DI MONREALE",
-      "cf_ente": "00231740820",
+      "id": "99b906b9-5a68-4f28-8226-54661bea7f67",
+      "cig": "BDB61B08DB",
+      "titolo": "Avviso pubblico di indagine di mercato ai sensi dell'art. 50 comma 1 lett. e) del D.LGS 31 marzo 2023, n. 36 per l'acquisizione di manifestazione di interesse a partecipare alla procedura per l'affidamento del servizio di supporto assistenza e consulenza finalizzato alla predisposizione, integrazion",
+      "descrizione": "Avviso pubblico di indagine di mercato ai sensi dell'art. 50 comma 1 lett. e) del D.LGS 31 marzo 2023, n. 36 per l'acquisizione di manifestazione di interesse a partecipare alla procedura per l'affidamento del servizio di supporto assistenza e consulenza finalizzato alla predisposizione, integrazione, verifica di coerenza e strutturazione della documentazione utile alla definizione del ciclo regolatorio 2028-2031 nonchè aggiornamento del vigente periodo regolatorio 2024-2027 presso l'Aeroporto Falcone Borsellino di Palermo.",
+      "ente": "GES.A.P. - SOCIETA' DI GESTIONE DELL' AEROPORTO DI PALERMO S.P.A.",
+      "cf_ente": "03244190827",
       "natura": "servizi",
       "cpv": [
-        "Servizi di progettazione grafica",
-        "Seminari di formazione",
-        "Servizi di formazione",
-        "Servizi promozionali"
+        "Servizi generali di consulenza gestionale"
       ],
       "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
       "momento": "manifestazione",
-      "importo": 110704.92,
+      "importo": 145000.0,
       "luogo": "Palermo",
-      "pubblicazione": "2026-10-30",
-      "scadenza": "2026-11-12",
-      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/5fea0b7d-82b3-4737-8424-69293a1de060",
-      "documenti": "https://appalti-comunemonreale.maggiolicloud.it/PortaleAppalti/it/procedure/codice/G00319",
+      "pubblicazione": "2026-11-10",
+      "scadenza": "2026-11-26",
+      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/99b906b9-5a68-4f28-8226-54661bea7f67",
+      "documenti": "https://portaleappalti.gesap.it/PortaleAppalti/it/procedure/codice/G02738",
       "territorio": "SICILIA",
       "profilo": "B",
-      "punteggio": 45,
+      "punteggio": 75,
       "parole_chiave": [
-        "formazione",
-        "progetto"
+        "consulenza",
+        "consulenza gestionale",
+        "supporto"
       ],
       "attenzione": [],
-      "nuovo": false,
-      "prima_vista": "2026-11-06"
+      "nuovo": true,
+      "prima_vista": "2026-11-10"
     }
   ]
 }
