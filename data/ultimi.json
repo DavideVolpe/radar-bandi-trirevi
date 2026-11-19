@@ -1,46 +1,15 @@
 {
   "meta": {
-    "generato": "2026-11-18T13:55:24+00:00",
+    "generato": "2026-11-19T14:24:37+00:00",
     "finestra": [
-      "08/11/2026",
-      "18/11/2026"
+      "09/11/2026",
+      "19/11/2026"
     ],
-    "avvisi_scaricati": 152,
+    "avvisi_scaricati": 162,
     "opportunita": 2,
-    "nuove": 1
+    "nuove": 0
   },
   "record": [
-    {
-      "id": "005b3ee4-92c4-4b81-b149-cb1fd3379075",
-      "cig": "BDD79BF776",
-      "titolo": "SEFNI26085 - procedura negoziata, ai sensi l’art 50 comma 1, lettera e) del D.lgs. 36/2023, per l’affidamento dei servizi professionali di assistenza e consulenza fiscale e tributaria",
-      "descrizione": "SEFNI26085 - procedura negoziata, ai sensi l’art 50 comma 1, lettera e) del D.lgs. 36/2023, per l’affidamento dei servizi professionali di assistenza e consulenza fiscale e tributaria",
-      "ente": "GIUBILEO 2025 SPA",
-      "cf_ente": "16791301001",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi fiscali"
-      ],
-      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-      "momento": "manifestazione",
-      "importo": 203000.0,
-      "luogo": "Roma",
-      "pubblicazione": "2026-11-18",
-      "scadenza": "2026-12-03",
-      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/005b3ee4-92c4-4b81-b149-cb1fd3379075",
-      "documenti": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5860",
-      "territorio": "ALTRO",
-      "profilo": "A",
-      "punteggio": 65,
-      "parole_chiave": [
-        "consulenza fiscale",
-        "fiscale",
-        "tributari"
-      ],
-      "attenzione": [],
-      "nuovo": true,
-      "prima_vista": "2026-11-18"
-    },
     {
       "id": "99b906b9-5a68-4f28-8226-54661bea7f67",
       "cig": "BDB61B08DB",
@@ -71,6 +40,37 @@
       "attenzione": [],
       "nuovo": false,
       "prima_vista": "2026-11-10"
+    },
+    {
+      "id": "005b3ee4-92c4-4b81-b149-cb1fd3379075",
+      "cig": "BDD79BF776",
+      "titolo": "SEFNI26085 - procedura negoziata, ai sensi l’art 50 comma 1, lettera e) del D.lgs. 36/2023, per l’affidamento dei servizi professionali di assistenza e consulenza fiscale e tributaria",
+      "descrizione": "SEFNI26085 - procedura negoziata, ai sensi l’art 50 comma 1, lettera e) del D.lgs. 36/2023, per l’affidamento dei servizi professionali di assistenza e consulenza fiscale e tributaria",
+      "ente": "GIUBILEO 2025 SPA",
+      "cf_ente": "16791301001",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi fiscali"
+      ],
+      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+      "momento": "manifestazione",
+      "importo": 203000.0,
+      "luogo": "Roma",
+      "pubblicazione": "2026-11-18",
+      "scadenza": "2026-12-03",
+      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/005b3ee4-92c4-4b81-b149-cb1fd3379075",
+      "documenti": "https://www.portalegare.societagiubileo2025.it/esop/guest/go/opportunity/detail?opportunityId=5860",
+      "territorio": "ALTRO",
+      "profilo": "A",
+      "punteggio": 65,
+      "parole_chiave": [
+        "consulenza fiscale",
+        "fiscale",
+        "tributari"
+      ],
+      "attenzione": [],
+      "nuovo": false,
+      "prima_vista": "2026-11-18"
     }
   ]
 }
