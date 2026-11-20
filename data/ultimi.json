@@ -1,15 +1,48 @@
 {
   "meta": {
-    "generato": "2026-11-19T14:24:37+00:00",
+    "generato": "2026-11-20T13:59:11+00:00",
     "finestra": [
-      "09/11/2026",
-      "19/11/2026"
+      "10/11/2026",
+      "20/11/2026"
     ],
-    "avvisi_scaricati": 162,
-    "opportunita": 2,
-    "nuove": 0
+    "avvisi_scaricati": 169,
+    "opportunita": 3,
+    "nuove": 1
   },
   "record": [
+    {
+      "id": "ea417d06-af0b-4efc-a801-a44fe240177d",
+      "cig": "BDE54F4CAB",
+      "titolo": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
+      "descrizione": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
+      "ente": "UNIONE DEI COMUNI MONTANI DEL CASENTINO",
+      "cf_ente": "02095920514",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi generali di consulenza gestionale"
+      ],
+      "tipologia_anac": "BANDI",
+      "momento": "gara",
+      "importo": 80696.5,
+      "luogo": "Arezzo",
+      "pubblicazione": "2026-11-20",
+      "scadenza": "2026-12-04",
+      "url": "https://pubblicitalegale.anticorruzione.it/bandi/ea417d06-af0b-4efc-a801-a44fe240177d",
+      "documenti": "https://start.toscana.it/tendering/tenders/048383-2026/view/detail/1",
+      "territorio": "ALTRO",
+      "profilo": "B",
+      "punteggio": 60,
+      "parole_chiave": [
+        "amministrativ",
+        "consulenza",
+        "consulenza gestionale",
+        "progetto",
+        "supporto"
+      ],
+      "attenzione": [],
+      "nuovo": true,
+      "prima_vista": "2026-11-20"
+    },
     {
       "id": "99b906b9-5a68-4f28-8226-54661bea7f67",
       "cig": "BDB61B08DB",
