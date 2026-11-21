@@ -1,79 +1,15 @@
 {
   "meta": {
-    "generato": "2026-11-20T13:59:11+00:00",
+    "generato": "2026-11-21T13:26:54+00:00",
     "finestra": [
-      "10/11/2026",
-      "20/11/2026"
+      "11/11/2026",
+      "21/11/2026"
     ],
-    "avvisi_scaricati": 169,
-    "opportunita": 3,
-    "nuove": 1
+    "avvisi_scaricati": 145,
+    "opportunita": 2,
+    "nuove": 0
   },
   "record": [
-    {
-      "id": "ea417d06-af0b-4efc-a801-a44fe240177d",
-      "cig": "BDE54F4CAB",
-      "titolo": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
-      "descrizione": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
-      "ente": "UNIONE DEI COMUNI MONTANI DEL CASENTINO",
-      "cf_ente": "02095920514",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi generali di consulenza gestionale"
-      ],
-      "tipologia_anac": "BANDI",
-      "momento": "gara",
-      "importo": 80696.5,
-      "luogo": "Arezzo",
-      "pubblicazione": "2026-11-20",
-      "scadenza": "2026-12-04",
-      "url": "https://pubblicitalegale.anticorruzione.it/bandi/ea417d06-af0b-4efc-a801-a44fe240177d",
-      "documenti": "https://start.toscana.it/tendering/tenders/048383-2026/view/detail/1",
-      "territorio": "ALTRO",
-      "profilo": "B",
-      "punteggio": 60,
-      "parole_chiave": [
-        "amministrativ",
-        "consulenza",
-        "consulenza gestionale",
-        "progetto",
-        "supporto"
-      ],
-      "attenzione": [],
-      "nuovo": true,
-      "prima_vista": "2026-11-20"
-    },
-    {
-      "id": "99b906b9-5a68-4f28-8226-54661bea7f67",
-      "cig": "BDB61B08DB",
-      "titolo": "Avviso pubblico di indagine di mercato ai sensi dell'art. 50 comma 1 lett. e) del D.LGS 31 marzo 2023, n. 36 per l'acquisizione di manifestazione di interesse a partecipare alla procedura per l'affidamento del servizio di supporto assistenza e consulenza finalizzato alla predisposizione, integrazion",
-      "descrizione": "Avviso pubblico di indagine di mercato ai sensi dell'art. 50 comma 1 lett. e) del D.LGS 31 marzo 2023, n. 36 per l'acquisizione di manifestazione di interesse a partecipare alla procedura per l'affidamento del servizio di supporto assistenza e consulenza finalizzato alla predisposizione, integrazione, verifica di coerenza e strutturazione della documentazione utile alla definizione del ciclo regolatorio 2028-2031 nonchè aggiornamento del vigente periodo regolatorio 2024-2027 presso l'Aeroporto Falcone Borsellino di Palermo.",
-      "ente": "GES.A.P. - SOCIETA' DI GESTIONE DELL' AEROPORTO DI PALERMO S.P.A.",
-      "cf_ente": "03244190827",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi generali di consulenza gestionale"
-      ],
-      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-      "momento": "manifestazione",
-      "importo": 145000.0,
-      "luogo": "Palermo",
-      "pubblicazione": "2026-11-10",
-      "scadenza": "2026-11-26",
-      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/99b906b9-5a68-4f28-8226-54661bea7f67",
-      "documenti": "https://portaleappalti.gesap.it/PortaleAppalti/it/procedure/codice/G02738",
-      "territorio": "SICILIA",
-      "profilo": "B",
-      "punteggio": 75,
-      "parole_chiave": [
-        "consulenza",
-        "consulenza gestionale",
-        "supporto"
-      ],
-      "attenzione": [],
-      "nuovo": false,
-      "prima_vista": "2026-11-10"
-    },
     {
       "id": "005b3ee4-92c4-4b81-b149-cb1fd3379075",
       "cig": "BDD79BF776",
@@ -104,6 +40,39 @@
       "attenzione": [],
       "nuovo": false,
       "prima_vista": "2026-11-18"
+    },
+    {
+      "id": "ea417d06-af0b-4efc-a801-a44fe240177d",
+      "cig": "BDE54F4CAB",
+      "titolo": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
+      "descrizione": "Procedura aperta, svolta in modalità telematica, finalizzata all'affidamento di un appalto di servizi di supporto tecnico-operativo al Progetto di rafforzamento amministrativo dell'Area Interna Casentino e Valtiberina",
+      "ente": "UNIONE DEI COMUNI MONTANI DEL CASENTINO",
+      "cf_ente": "02095920514",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi generali di consulenza gestionale"
+      ],
+      "tipologia_anac": "BANDI",
+      "momento": "gara",
+      "importo": 80696.5,
+      "luogo": "Arezzo",
+      "pubblicazione": "2026-11-20",
+      "scadenza": "2026-12-04",
+      "url": "https://pubblicitalegale.anticorruzione.it/bandi/ea417d06-af0b-4efc-a801-a44fe240177d",
+      "documenti": "https://start.toscana.it/tendering/tenders/048383-2026/view/detail/1",
+      "territorio": "ALTRO",
+      "profilo": "B",
+      "punteggio": 60,
+      "parole_chiave": [
+        "amministrativ",
+        "consulenza",
+        "consulenza gestionale",
+        "progetto",
+        "supporto"
+      ],
+      "attenzione": [],
+      "nuovo": false,
+      "prima_vista": "2026-11-20"
     }
   ]
 }
