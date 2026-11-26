@@ -1,77 +1,15 @@
 {
   "meta": {
-    "generato": "2026-11-25T15:34:28+00:00",
+    "generato": "2026-11-26T15:10:17+00:00",
     "finestra": [
-      "15/11/2026",
-      "25/11/2026"
+      "16/11/2026",
+      "26/11/2026"
     ],
-    "avvisi_scaricati": 146,
+    "avvisi_scaricati": 165,
     "opportunita": 4,
-    "nuove": 2
+    "nuove": 0
   },
   "record": [
-    {
-      "id": "44dd7185-1dbb-4d25-8e00-7db097909aad",
-      "cig": "BDF54FD61F",
-      "titolo": "Selezione consulente del lavoro",
-      "descrizione": "Selezione consulente del lavoro",
-      "ente": "FONDOPROFESSIONI",
-      "cf_ente": "97330570587",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi di consulenza fiscale"
-      ],
-      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
-      "momento": "manifestazione",
-      "importo": 60000.0,
-      "luogo": "Roma",
-      "pubblicazione": "2026-11-25",
-      "scadenza": "2026-12-09",
-      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/44dd7185-1dbb-4d25-8e00-7db097909aad",
-      "documenti": "https://www.acquistinretepa.it/bandi/negoziata/adi/d07ce168d2cc42f5",
-      "territorio": "ALTRO",
-      "profilo": "A",
-      "punteggio": 60,
-      "parole_chiave": [
-        "consulenza fiscale",
-        "fiscale"
-      ],
-      "attenzione": [],
-      "nuovo": true,
-      "prima_vista": "2026-11-25"
-    },
-    {
-      "id": "8b9ef1b1-1333-47fa-bcc1-2ffddc968a4d",
-      "cig": "BDED7C2E30",
-      "titolo": "Servizio di revisione legale dei conti per le società del Gruppo GSE",
-      "descrizione": "Servizio di revisione legale dei conti ai sensi del D.Lgs. del 27.1.2010, n. 39, come successivamente modificato e integrato, e adempimenti previsti dalla legge n. 244/2007 in tema di responsabilità fiscale dei revisori per le società del gruppo GSE (Gestore dei Servizi Energetici SpA - GSE, Gestore dei Mercati Energetici SpA, Acquirente Unico SpA, Ricerca sul Sistema Energetico SpA - RSE, Servizi Fondo Bombole Metano SpA - SFBM) per il triennio decorrente dall'anno di stipula del contratto.",
-      "ente": "GESTORE DEI SERVIZI ENERGETICI - GSE SPA",
-      "cf_ente": "05754381001",
-      "natura": "servizi",
-      "cpv": [
-        "Servizi di revisione dei conti"
-      ],
-      "tipologia_anac": "BANDI",
-      "momento": "gara",
-      "importo": 940000.0,
-      "luogo": "Roma",
-      "pubblicazione": "2026-11-25",
-      "scadenza": "2026-12-23",
-      "url": "https://pubblicitalegale.anticorruzione.it/bandi/8b9ef1b1-1333-47fa-bcc1-2ffddc968a4d",
-      "documenti": "https://appalti.gse.it/PortaleAppalti/it/procedure/codice/G01789",
-      "territorio": "ALTRO",
-      "profilo": "A",
-      "punteggio": 50,
-      "parole_chiave": [
-        "fiscale",
-        "revisione legale"
-      ],
-      "attenzione": [
-        "importo oltre 300.000 €: verificare requisiti di fatturato"
-      ],
-      "nuovo": true,
-      "prima_vista": "2026-11-25"
-    },
     {
       "id": "005b3ee4-92c4-4b81-b149-cb1fd3379075",
       "cig": "BDD79BF776",
@@ -135,6 +73,68 @@
       "attenzione": [],
       "nuovo": false,
       "prima_vista": "2026-11-20"
+    },
+    {
+      "id": "44dd7185-1dbb-4d25-8e00-7db097909aad",
+      "cig": "BDF54FD61F",
+      "titolo": "Selezione consulente del lavoro",
+      "descrizione": "Selezione consulente del lavoro",
+      "ente": "FONDOPROFESSIONI",
+      "cf_ente": "97330570587",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi di consulenza fiscale"
+      ],
+      "tipologia_anac": "INDAGINI_DI_MERCATO_SOTTO_SOGLIA",
+      "momento": "manifestazione",
+      "importo": 60000.0,
+      "luogo": "Roma",
+      "pubblicazione": "2026-11-25",
+      "scadenza": "2026-12-09",
+      "url": "https://pubblicitalegale.anticorruzione.it/avvisi/44dd7185-1dbb-4d25-8e00-7db097909aad",
+      "documenti": "https://www.acquistinretepa.it/bandi/negoziata/adi/d07ce168d2cc42f5",
+      "territorio": "ALTRO",
+      "profilo": "A",
+      "punteggio": 60,
+      "parole_chiave": [
+        "consulenza fiscale",
+        "fiscale"
+      ],
+      "attenzione": [],
+      "nuovo": false,
+      "prima_vista": "2026-11-25"
+    },
+    {
+      "id": "8b9ef1b1-1333-47fa-bcc1-2ffddc968a4d",
+      "cig": "BDED7C2E30",
+      "titolo": "Servizio di revisione legale dei conti per le società del Gruppo GSE",
+      "descrizione": "Servizio di revisione legale dei conti ai sensi del D.Lgs. del 27.1.2010, n. 39, come successivamente modificato e integrato, e adempimenti previsti dalla legge n. 244/2007 in tema di responsabilità fiscale dei revisori per le società del gruppo GSE (Gestore dei Servizi Energetici SpA - GSE, Gestore dei Mercati Energetici SpA, Acquirente Unico SpA, Ricerca sul Sistema Energetico SpA - RSE, Servizi Fondo Bombole Metano SpA - SFBM) per il triennio decorrente dall'anno di stipula del contratto.",
+      "ente": "GESTORE DEI SERVIZI ENERGETICI - GSE SPA",
+      "cf_ente": "05754381001",
+      "natura": "servizi",
+      "cpv": [
+        "Servizi di revisione dei conti"
+      ],
+      "tipologia_anac": "BANDI",
+      "momento": "gara",
+      "importo": 940000.0,
+      "luogo": "Roma",
+      "pubblicazione": "2026-11-25",
+      "scadenza": "2026-12-23",
+      "url": "https://pubblicitalegale.anticorruzione.it/bandi/8b9ef1b1-1333-47fa-bcc1-2ffddc968a4d",
+      "documenti": "https://appalti.gse.it/PortaleAppalti/it/procedure/codice/G01789",
+      "territorio": "ALTRO",
+      "profilo": "A",
+      "punteggio": 50,
+      "parole_chiave": [
+        "fiscale",
+        "revisione legale"
+      ],
+      "attenzione": [
+        "importo oltre 300.000 €: verificare requisiti di fatturato"
+      ],
+      "nuovo": false,
+      "prima_vista": "2026-11-25"
     }
   ]
 }
