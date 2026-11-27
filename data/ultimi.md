@@ -1,5 +1,5 @@
 # Radar bandi PA – Trirevi / Vulpetti
-Finestra di pubblicazione 16/11/2026 → 26/11/2026 · aggiornato 26/11/2026 15:10 UTC · 4 opportunità
+Finestra di pubblicazione 17/11/2026 → 27/11/2026 · aggiornato 27/11/2026 15:01 UTC · 4 opportunità
 
 | Nuovo | Punti | Profilo | Territorio | Ente | Oggetto | Procedura | Importo | Scadenza | Link |
 |---|---|---|---|---|---|---|---|---|---|
